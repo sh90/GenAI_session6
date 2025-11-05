@@ -1,4 +1,4 @@
-# 🧠 GenAI Module — Session 5  
+# 🧠 GenAI Module — Session 6  
 ### *Generative AI and Agentic AI Basics*
 
 ---
@@ -85,4 +85,5 @@ run files in examples fodler
   which uv      # macOS/Linux
   where uv      # Windows
   ```
+
 
