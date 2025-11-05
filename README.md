@@ -69,7 +69,7 @@ Add your keys or credentials inside the `.env` file as required.
 ### 🚀 Step 7: Run the Application
 
 ```bash
-run files in examples fodler
+run files in examples folder
 ```
 
 ---
@@ -85,5 +85,6 @@ run files in examples fodler
   which uv      # macOS/Linux
   where uv      # Windows
   ```
+
 
 
