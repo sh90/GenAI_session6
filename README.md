@@ -69,6 +69,7 @@ Add your keys or credentials inside the `.env` file as required.
 ### 🚀 Step 7: Run the Application
 
 ```bash
+cd examples
 run files in examples folder
 ```
 
@@ -85,6 +86,7 @@ run files in examples folder
   which uv      # macOS/Linux
   where uv      # Windows
   ```
+
 
 
 
