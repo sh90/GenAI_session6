@@ -69,9 +69,7 @@ Add your keys or credentials inside the `.env` file as required.
 ### 🚀 Step 7: Run the Application
 
 ```bash
-python tool_example/master_agent.py
-python db_calling/txt2sql_agent.py
-streamlit run code_execution/main.py
+run files in examples fodler
 ```
 
 ---
@@ -87,3 +85,4 @@ streamlit run code_execution/main.py
   which uv      # macOS/Linux
   where uv      # Windows
   ```
+
