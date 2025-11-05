@@ -1,0 +1,4 @@
+Password reset: Go to account, click forgot password, follow email.
+Billing failure: Retry card, check billing address, else escalate to billing.
+Shipping: If delay > 3 days, offer 10% coupon.
+Product: VistaPrice — common issue is discount rule not refreshed.
