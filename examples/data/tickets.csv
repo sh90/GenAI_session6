@@ -1,4 +1,0 @@
-ticket_id,customer_id,subject,body,created_at
-T001,C001,Password reset,"I cannot reset my password",2025-10-29
-T002,C002,Billing failed,"Payment failed twice on card",2025-10-30
-T003,C003,Discount wrong,"VistaPrice shows wrong discount",2025-10-30
