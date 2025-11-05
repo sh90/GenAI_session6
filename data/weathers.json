@@ -1,0 +1,5 @@
+{
+  "Bengaluru": {"temp_c": 28, "condition": "Sunny"},
+  "Delhi": {"temp_c": 32, "condition": "Haze"},
+  "Gurgaon": {"temp_c": 31, "condition": "Clear"}
+}

@@ -1,0 +1,6 @@
+timestamp,amount,merchant,merchant_category,location
+2025-04-18T10:30:00,42.15,Starbucks,Food,New York
+2025-04-17T18:20:00,125.30,Whole Foods,Grocery,New York
+2025-04-15T12:10:00,85.00,Amazon,Retail,Online
+2025-04-12T09:15:00,35.50,Starbucks,Food,New York
+2025-04-10T20:20:00,200.00,Nike,Retail,New York

@@ -1,0 +1,5 @@
+[
+  {"sku": "VP-001", "name": "VistaPrice", "category": "pricing", "status": "live"},
+  {"sku": "UP-002", "name": "Uploader", "category": "media", "status": "live"},
+  {"sku": "DS-010", "name": "Designer", "category": "design", "status": "beta"}
+]

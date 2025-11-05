@@ -1,0 +1,22 @@
+[project]
+name = "genai-session6"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ddgs>=9.7.0",
+    "feedparser>=6.0.12",
+    "langchain>=1.0.3",
+    "langchain-community>=0.4.1",
+    "langchain-core>=1.0.2",
+    "langchain-experimental>=0.0.42",
+    "langchain-openai>=1.0.1",
+    "lxml[html-clean]>=6.0.2",
+    "matplotlib>=3.10.7",
+    "newspaper3k>=0.2.8",
+    "pandas>=2.3.3",
+    "python-dotenv>=1.2.1",
+    "seaborn>=0.13.2",
+    "streamlit>=1.51.0",
+]
