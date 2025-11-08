@@ -4,7 +4,7 @@ import os, json, time
 from typing import Any, Dict, List, Optional
 import re
 
-from dotenv import load_dotenv
+
 import feedparser
 import newspaper
 from openai import OpenAI
@@ -12,6 +12,7 @@ from openai import OpenAI
 # ----------------------------
 # 0) Setup
 # ----------------------------
+from dotenv import load_dotenv
 load_dotenv()
 client = OpenAI()  # reads OPENAI_API_KEY from env
 
